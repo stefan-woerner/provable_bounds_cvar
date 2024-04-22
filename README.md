@@ -6,3 +6,7 @@ https://arxiv.org/abs/2312.00733
 Code and data.
 
 Get started by `pip install -r requirements.txt`.
+
+Results for Figures 1, 3, 4 and Tables 1 & 2 can be found in the two notebooks:
+- 40-qubits / 40_qubit_qaoa.ipynb
+- 127-qubits / 127_qubit_qaoa.ipynb
