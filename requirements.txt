@@ -5,4 +5,3 @@ qiskit_ibm_runtime>=0.18.0
 qiskit_ibm_provider>=0.10.0
 qiskit_optimization>=0.6.1
 dimod>=0.12.14
-ast
