@@ -1,7 +1,9 @@
-qiskit>=1.0.0
-matplotlib
 jupyter
-qiskit_ibm_runtime>=0.18.0
-qiskit_ibm_provider>=0.10.0
-qiskit_optimization>=0.6.1
-dimod>=0.12.14
+matplotlib
+tqdm
+qiskit==1.2.0
+qiskit_ibm_runtime==0.23.0
+qiskit_optimization==0.6.1
+qiskit_aer==0.14.2
+dimod==0.12.16
+mthree==2.6.3
